@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Pâmela Cristina Ribeiro de Souza</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <header>
+    <div class="welcome">
+      <h5>Bem-vindos!!!</h5>
+    </div>
+    <img class="panda" src="pandaplayer.png" alt="Panda jogando videogame" title="Panda jogando videogame">
+    <div class="titulo">
+      <h1>Pâmela Cristina Ribeiro de Souza</h1>
+    </div>
+  </header>  
+  
+  <nav>
+    <div class="links">
+      <a href="#info">Sobre Mim</a>
+      <a href="#skills">Conhecimentos</a>
+      <a href="#history">Históricos</a>
+      <a href="#projects">Projetos</a>
+      <a href="#experiences">Experiências</a>
+      <a href="#contact">Contatos</a>
+    </div>
+  </nav>
+  
+  <section id="info" class="info">
+    <h2>Sobre Mim</h2>      
+    <img class="eu" src="photo.jpeg" alt="Pâmela" title="Pâmela">
+    <p>Oie galerinha! :)</p>
+    <p>Meu nome é Pâmela, sou de Maricá e tenho 27 anos. Sou Arquiteta, Urbanista e Designer, e no momento estudo Sistema de Informação na UniLaSalle. Sempre fui apaixonada por artes, principalmente cinema e pintura.</p>
+    <p>No meu tempo livre, adoro ouvir música; assistir séries, filmes, k-dramas e documentários; ir a shows; jogar alguns jogos divertidos, mesmo não sendo boa nisso. Gosto muito de viajar, conhecer novos lugares e experimentar diferentes momentos.</p>
+    <p>Toda minha vida é organizada com Notion. Então faço planejamentos, listas, traço metas e marco compromissos e eventos no calendário. Acredito muito em honestidade, respeito, empatia, justiça e procuro viver a vida dessa forma. Me preocupo com o bem estar das pessoas ao meu redor.</p>
+    <p>Sou simpática, comunicativa e divertida. Sou curiosa, amo aprender coisas novas e estou sempre em busca de desafios e de novos conhecimentos para adquirir. Tenho alguns sonhos grandes, estou trabalhando duro e dando o meu melhor para alcançá-los.</p>
+    <p>XOXO, Pam!</p>
+  </section>
+
+  <section id="skills" class="skills">
+    <h2>Conhecimentos</h2>
+    <div class="skills-container">
+      <div class="skills-colunas1">
+        <h3>Linguagens:</h3>
+        <ul>
+          <li>C#</li>
+          <li>C</li>
+          <li>CSS</li>
+          <li>HTML</li>
+        </ul>
+        <h3>Softwares:</h3>
+        <ul>
+          <li>Autocad 2D</li>
+          <li>SketchUp</li>
+          <li>LayOut</li>
+          <li>Blender</li>
+          <li>Adobe: Photoshop, Indesign e Illustrator</li>
+          <li>Lumion</li>
+          <li>Revit</li>
+          <li>Archicad</li>
+          <li>Microsoft Office</li>
+          <li>Workspace</li>
+          <li>Canva</li>
+          <li>Notion</li>
+          <li>Trello</li>
+          <li>Unity Engine</li>
+          <li>Visual Studio</li>
+        </ul>
+      </div>
+      <div class="skills-colunas2">
+        <h3>Cursos e Certificados:</h3>
+        <ul>
+          <li>Inglês: Nível Intermediário</li>
+          <li>Design e Modelagem 3D</li>
+          <li>Personal Organizer</li>
+          <li>Acessibilidade em Museus</li>
+          <li>Conservação Preventiva para Acervos Museológicos</li>
+          <li>Roteiro para obras Audiovisuais</li>
+          <li>Workshop: Espiritualidade na Arquitetura - Projetando com Feng Shui</li>
+          <li>Extensão em Consultor em Ergonomia</li>
+          <li>Mini-curso: Arquitetura Clínica</li>
+          <li>História da Arte & Arquitetura: Idade Média e Renascimento</li>
+          <li>Assistente Administrativo</li>
+          <li>Turismo e Eventos</li>
+        </ul>
+        <h3>Soft Skills:</h3>
+        <ul>
+          <li>Trabalho em Equipe</li>
+          <li>Gerenciamento de Tempo</li>
+          <li>Responsável e Assíduo</li>
+          <li>Atualização de conhecimentos constantes</li>
+          <li>Flexivel à mudanças</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+  
+  <section id="history" class="history">
+    <h2>Históricos</h2>
+      <h3>Histórico Acadêmico:</h3>
+        <span><strong>Centro Universitário LaSalle (2024 - 2027):</strong> Bacharelado em Sistema de Informação.</span>
+        <span><strong>Universidade Estácio de Sá (2017 - 2022):</strong> Bacharelado em Arquitetura e Urbanismo.</span>
+        <span><strong>Senac (2015 - 2016):</strong> Técnico em Designer de Interiores.</span>
+        <span><strong>Santa Mônica Centro Educacional (2004 - 2013):</strong> Ensino Médio e Fundamental.</span>
+    
+      <h3>Histórico Profissional:</h3>
+        <span><strong>Staff/ Coordenação | RP12 Serviços de Informação, Eventos e Tecnologia (04/2024):</strong></span>
+        <span>Auxiliar na organização de filas, auxiliar o público presente para ser atendido em cada uma das atividades disponíveis, realização de pesquisas e auxiliar em demais atrações que forem solicitadas do evento Maricá Games. Durante o período do evento fui promovida a Coordenação, atendendo necessidades de influencers, atrações, atividades e produção.</span>
+        <span><strong>Freelancer | ARQNISK - Victor Niskier Arquitetura LTDA (04/2023 - 07/2023):</strong></span>
+        <span> Auxiliei em projetos residenciais de Interiores, em projetos e detalhamentos executivo, detalhamentos de marcenaria, memorial descritivo, acompanhamento de obras e levantamento arquitetônico. Colaborei no projeto #Casa73 do CASACOR Rio, projetei com a ferramenta autoCad, acompanhei a obra e entrei em contato com fornecedores e engenheiro.</span>
+        <span><strong>Freelancer - Arquiteta Júnior | HARDY Arquitetos (07/2022 - 01/2023):</strong></span>
+        <span>Arquitetura hospitalar, em projeto de interiores com foco na área da saúde, como clínicas, consultórios e hospitais. Executei projetos e detalhamentos executivo, detalhamentos de marcenaria, memorial descritivo e 3D no SketchUp.</span>
+        <span><strong>Freelancer - Arquiteta | Cenografia.net (11/2022 - 11/2022):</strong></span>
+        <span>Desenvolvi plantas e 3D do espaço Sírio Libanês onde foi realizado o evento Casa Bloco 2023, além de visitas técnicas e levantamento arquitetônico.</span>
+        <span><strong>Estágio Voluntário | Prefeitura do Município de Maricá - Secretaria de Urbanismo (06/2021 - 12/2021):</strong></span>
+        <span>Auxiliei no setor de Planejamento Urbano, nos trabalhos referentes ao Plano Diretor, Plano de Mobilidade, Programa Maricá Acessível, Parque do Mirante do Cajú e demais tarefas afins.</span>
+    <span><strong>Operador de SAC I | Atento Brasil (12/2014 - 10/2016):</strong></span>
+    <span>Atendimento ao cliente e manuseio de sistemas.</span>
+  </section>
+  
+  <section id="projects" class="projects">
+    <h2>Projetos</h2>
+    <ol class="no-icons">
+      <li>
+        <a href="https://www.instagram.com/phobus_rpg?igsh=MWxlcGc3NTQxa3pqcg==" target="_blank"><img class="projetos" src="phobus.jpeg" alt="Phobus" title="Phobus"></a>
+        <div class="descricao">
+          <h3>UnityLab: Phobus</h3>
+          <p>Grupo de pesquisa acadêmica (Iniciação Científica) em parceria com estudantes do curso de psicologia. Desenvolvendo modelo de tecnologia assistiva, um jogo de RPG 2D, para auxiliar o tratamento de pacientes com Fobia Social mediada por ambiente de Role Playing Games com inteligência computacional. Sob orientação do professor Lauro Victor Ramos Cavadas e José Carlos Tavares da Silva da UniLaSalle - RJ.</p>
+        </div>
+      </li>
+      <li>
+        <a href="https://www.instagram.com/iampamdanerd?igsh=MXJ4MnM2Z2RueXVqMA==" target="_blank"><img class="projetos" src="pandapipoca.jpeg" alt="Panda comendo pipoca" title="Panda comendo pipoca"></a>
+        <div class="descricao">
+          <h3>Instagram Pessoal @iampamdanerd</h3>
+          <p>Instagram dedicado a compartilhar minha paixão por entretenimento e cultura pop. Adoro compartilhar minhas opiniões e análises. Desde séries adolescentes no colegial até documentários sobre serial killers, você encontrará minhas impressões sinceras. Minhas indicações são baseadas no que realmente gostei e acho que você também vai adorar. Cada postagem é feita com muito carinho e dedicação, buscando sempre trazer conteúdo de qualidade para meus seguidores. Se você está em dúvida sobre o que assistir, jogar ou ler, está no lugar certo!</p>
+        </div>
+      </li>
+      <li>
+        <img class="projetos" src="tcc.png" alt="Arena Gamer" title="Arena Gamer">
+        <div class="descricao">
+          <h3>TCC (Trabalho de Conclusão de Curso) de Arquitetura e Urbanismo: Arquitetura no Mundo dos Jogos</h3>
+          <p>Uma Arena Gamer implantada na Barra da Tijuca, RJ. Com objetivo de atender principalmente o público gamer, seja jogadores profissionais ou não e torcedores. Com a proposta arquitetônica de ser um Centro de Entretenimento, além de ser uma oportunidade para incentivar jogadores a crescerem profissionalmente, para jogadores ainda não profissionais serem reconhecidos e motivados a participarem desses campeonatos. Esse projeto tem como oportunidade a profissionalização e entretenimento dos usuários no mesmo edifício.</p>
+        </div>
+      </li>
+    </ol>
+  </section>
+  
+  <section id="experiences">
+    <h2>Experiências</h2>
+    <table class="customizada">
+      <thead>
+        <tr>
+          <th class="col-evento">EVENTO</th>
+          <th class="col-data">DATA</th>
+          <th class="col-categoria">CATEGORIA</th>
+          <th class="col-descricao">DESCRIÇÃO</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Passaporte em Ação - UniLaSalle - Plantão Hacker</td>
+          <td class="col-data">11/05/2024</td>
+          <td class="col-categoria">Serviço</td>
+          <td>Prestando serviço à população da cidade de Maricá. Dando orientações sobre proteção de dados pessoais, incluindo a verificação de eventuais vazamentos de dados de cada visitante.</td>
+        </tr>
+        <tr>
+          <td>Maricá Games</td>
+          <td class="col-data">21/04/2024</td>
+          <td class="col-categoria">Palestra</td>
+          <td>Palestrante - Chance Glasco (Co-fundador da franquia Call of Duty e CEO da Good Dog Studios) divulgando seu novo lançamento Martial Arts Tycoon: Brazil.</td>
+        </tr>
+        <tr>
+          <td>Congresso do Amanhã "Do Mar de Maricá à Sustentabilidade do Brasil" - Secretaria de Ciência, Tecnologia e Formação de Maricá</td>
+          <td class="col-data">02/04/2024 - 03/04/2024</td>
+          <td class="col-categoria">Mesas de conversa, apresentações e palestras</td>
+          <td>Sobre assuntos relacionados.</td>
+        </tr>
+        <tr>
+          <td>Rio Construção Summit</td>
+          <td class="col-data">19/09/2023 - 21/09/2023</td>
+          <td class="col-categoria">Evento Internacional</td>
+          <td>Apresentações e palestras.</td>
+        </tr>
+        <tr>
+          <td rowspan="2">MICA (Mostra de Inovação Cultural e Artística) de Maricá</td>
+          <td class="col-data">27/08/2023</td>
+          <td class="col-categoria">Pitching</td>
+          <td>Defendendo o projeto do roteiro "Garotas podem ser quem elas quiserem" para uma banca avaliadora.</td>
+        </tr>
+        <tr>
+          <td class="col-data">25/08/2023</td>
+          <td class="col-categoria">Seminário</td>
+          <td>Monetização e Empreendedorismo em Jogos Digitais, Palestrante - Eduardo Brasil.</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+  
+  <footer id="contact">
+    <h2 class= "contatos">Contatos</h2>
+    <span>Email: pamcsribeiro22@gmail.com</span>
+    <span>Telefone: (21) 97899-4114</span>
+    <div class = "redes">
+      <a href="https://open.spotify.com/user/zzvrt6n3k35ze08j23hurw0bk?si=6194c45f2ef94b47" target="_blank"><img class="redes-sociais" src="spotify.svg" alt="Spotify da Pam" title="Pam Ribeiro"></a>
+      <a href="https://www.facebook.com/pamela.ribeiro.397" target="_blank"><img class="redes-sociais" src="facebook.svg" alt="Pâmela Ribeiro" title="Facebook da Pam"></a>
+      <a href="https://www.instagram.com/pamcsribeiro" target="_blank"><img class="redes-sociais" src="instagram.svg" alt="Instagram da Pam" title="@pamcsribeiro"></a>
+      <a href="https://x.com/Pamcsribeiro" target="_blank"><img class="redes-sociais" src="twitter.svg" alt="Twitter da Pam" title="@Pamcsribeiro"></a>
+      <a href="https://www.threads.net/@pamcsribeiro" target="_blank"><img class="redes-sociais" src="threads.svg" alt="Threads da Pam" title="@pamcsribeiro"></a>
+      <a href="https://www.linkedin.com/in/pamcsribeiro/" target="_blank"><img class="redes-sociais" src="linkedin.svg" alt="Linkedin da Pam" title="pamcsribeiro"></a>
+      <a href="https://steamcommunity.com/id/pamcsribeiro" target="_blank"><img class="redes-sociais" src="steam.svg" alt="Steam da Pam" title="pamcsribeiro"></a>
+      <a href="https://www.twitch.tv/pamcsribeiro" target="_blank"><img class="redes-sociais" src="twitch.svg" alt="Twitch da Pam" title="pamcsribeiro"></a>
+      <a href="https://discord.com/channels/@pamcsribeiro" target="_blank"><img class="redes-sociais" src="discord.svg" alt="Discord da Pam" title="pamcsribeiro"></a>
+      <a href="https://github.com/Pamcsribeiro" target="_blank"><img class="redes-sociais" src="github.svg" alt="Github da Pam" title="pamcsribeiro"></a>
+    </div>
+    <div class="copyrightok">
+      <h6><img class="copyright" src="copyright.svg" alt="copyright" title="copyright"> 2024 todos os direitos reservados a Pam Ribeiro.</h6>
+    </div>
+  </footer>
+</body>
+</html>
